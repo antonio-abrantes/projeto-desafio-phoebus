@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A E-comics</string>
+    <string name="formata_reais">: R$ %.2f</string>
+    <string name="formata_dolar">: US$ %.2f</string>
+</resources>
